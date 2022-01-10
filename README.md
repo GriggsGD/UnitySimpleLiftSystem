@@ -1,2 +1,2 @@
 # UnitySimpleLiftSystem
-A simple lift system for Unity 3D
+A tutorial demonstrating how to develop a Simple Lift System in Unity
